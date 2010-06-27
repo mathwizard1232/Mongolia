@@ -1,3 +1,36 @@
 /* Source: http://www.devlounge.net/design/aligning-images-the-right-way-using-css */
 .align-right { float:right; margin: 0 0 15px 15px; }
 .align-left { float:left; margin: 0 15px 15px 0; }
+/* End Source: */
+
+.center { margin-left:auto;
+          margin-right:auto; }
+
+/* Source: http://www.alistapart.com/articles/taminglists/ */
+#nav {
+    border: 1px solid #00F;
+    margin: 2em;
+    width: 90%;
+    padding: 5px;
+    }
+
+#nav li {
+    margin-left: 0;
+    padding: 3px 15px;
+    border-left: 1px solid #000;
+    list-style: none;
+    display: inline;
+    }
+
+#nav li.first {
+    margin-left: 0;
+    border-left: none;
+    list-style: none;
+    display: inline;
+    }
+
+/* End Source: */
+
+#nav {background-color: white;}
+
+.content {background-color:white;}
