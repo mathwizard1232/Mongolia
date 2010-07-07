@@ -33,4 +33,26 @@
 
 #nav {background-color: white;}
 
-.content {background-color:white;}
+.content {background-color:white; width:80%;}
+
+.divider {display:block; margin:10px;}
+
+.white {background-color:white;}
+
+/* Source: http://www.w3.org/Style/Examples/007/indent
+* All glory be to the w3! */
+p {
+    margin-bottom: 3px;  }
+p + p {
+    text-indent: 1.5em;
+    margin-top: 0; }
+ /* End Source: */
+
+.padded { margin-top: 5px; margin-bottom:5px; }
+.no-indent {text-indent: 0em; }
+.indent {text-indent: 1.5em; }
+
+table {margin: 0; padding: 0; border-collapse: collapse;}
+tr {margin: 0; padding: 0;}
+
+h2 {background-color: white;}
