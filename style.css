@@ -35,9 +35,12 @@
 
 .content {background-color:white; width:80%;}
 
-.divider {display:block; margin:10px;}
+.divider {display:block; margin:10px; width:200px;}
 
 .white {background-color:white;}
+.caption {background-color:white;}
+
+h3 {background-color:white;}
 
 /* Source: http://www.w3.org/Style/Examples/007/indent
 * All glory be to the w3! */
