@@ -44,10 +44,12 @@ body { font-family:"Bird Cherry", "Helvetica", "serif" }
 
 h3 {background-color:white;}
 
+.image {display: inline;}
+
 /* Source: http://www.w3.org/Style/Examples/007/indent
 * All glory be to the w3! */
 p { background-color: white;
-    margin-bottom: 3px;  }
+    margin-bottom: 5px;  }
 p + p {
     text-indent: 1.5em;
     margin-top: 0; }
@@ -63,3 +65,4 @@ tr {margin: 0; padding: 0;}
 h2 {background-color: white;}
 
 #test > p {background-color:white;}
+.space-p p {margin-bottom:3%;}
