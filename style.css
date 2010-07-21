@@ -44,7 +44,7 @@ h3 {background-color:white;}
 
 /* Source: http://www.w3.org/Style/Examples/007/indent
 * All glory be to the w3! */
-p {
+p { background-color: white;
     margin-bottom: 3px;  }
 p + p {
     text-indent: 1.5em;
